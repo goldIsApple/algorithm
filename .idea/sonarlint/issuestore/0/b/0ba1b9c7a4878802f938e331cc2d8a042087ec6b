@@ -1,2 +1,22 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8’ó½êÐ1
+^
+java:S49735"<Strings and Boxed types should be compared using "equals()".(òŸºÐûÿÿÿÿ8Þµå²Ó1
+Y
+java:S49736"<Strings and Boxed types should be compared using "equals()".(òÍÖ²8Þµå²Ó1
+^
+java:S49737"<Strings and Boxed types should be compared using "equals()".(õö’”ûÿÿÿÿ8Þµå²Ó1
+^
+java:S49738"<Strings and Boxed types should be compared using "equals()".(ªÕ‡—úÿÿÿÿ8Þµå²Ó1
+Y
+java:S49739"<Strings and Boxed types should be compared using "equals()".(†’Â 8ßµå²Ó1
+X
+java:S4973;"<Strings and Boxed types should be compared using "equals()".(ðÍà~8ßµå²Ó1
+^
+java:S4973<"<Strings and Boxed types should be compared using "equals()".(Ï¡€åúÿÿÿÿ8ßµå²Ó1
+Y
+java:S4973="<Strings and Boxed types should be compared using "equals()".(çÄì¨8ßµå²Ó1
+Y
+java:S4973>"<Strings and Boxed types should be compared using "equals()".(‡ÔÍ¤8ßµå²Ó1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(œû¿Ø8«¶å²Ó1
+G	java:S106t"+Replace this use of System.out by a logger.(ô¤„å8³¶å²Ó1
