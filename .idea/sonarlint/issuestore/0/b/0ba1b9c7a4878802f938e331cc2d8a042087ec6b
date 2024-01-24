@@ -1,2 +1,4 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8’ó½êĞ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8ã™ÔÜÓ1
+G	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8æ™ÔÜÓ1
