@@ -22,3 +22,5 @@ w
 G.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35,b/f/bfb9453d49af9bc40f5f7a5f034be3c7ef8fa6bf
 w
 G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b/4/b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
+T
+$src/main/java/org/example/Main2.java,8/2/82da1d8cfd4242b8eceb3f51bf94ef24398d7267
