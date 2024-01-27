@@ -1,2 +1,10 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8’ó½êĞ1
+S
+java:S1854"6Remove this useless assignment to local variable "br".(ßÅÍ”8äÙÅÕÔ1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8äÙÅÕÔ1
+B
+java:S1659" Declare "bc" on a separate line.(î²¾şÿÿÿÿ8—á½ÕÔ1
+D
+java:S1481"'Remove this unused "br" local variable.(ßÅÍ”8åÙÅÕÔ1
+L	java:S106""+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8íôÂÕÔ1
